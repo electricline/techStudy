@@ -11,8 +11,8 @@
      - 클래스로드가 끝난 후 JVM은 main 메소드를 찾아 지역변수, 객체변수, 참조변수를 스택에 쌓음
    
 ## 1-3 자바프로그램 실행과정에 대해 설명 해 주세요
-   - 자바 컴파일러(javac)가 자바 소스코드(.java)를 자바 바이트코드(.class)로 변환하고 
-     Class Loader를 통해 JVM으로 로딩하고 Execution engine을 통해 해석하여 Runtime Data Areas에 배치되어 실질적인 수행
+     - 자바 컴파일러(javac)가 자바 소스코드(.java)를 자바 바이트코드(.class)로 변환하고 
+       Class Loader를 통해 JVM으로 로딩하고 Execution engine을 통해 해석하여 Runtime Data Areas에 배치되어 실질적인 수행
    
 ## 1-4 JVM 구성은 어떻게 되어 있나요?
     * Class Loader(클래스 로더)
